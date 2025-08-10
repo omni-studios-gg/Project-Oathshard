@@ -410,31 +410,40 @@
       <HintPath>D:\Program Installs\Unity\Unity Versions\6000.0.44f1\2022.3.62f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll</HintPath>
     </Reference>
     <Reference Include="unityplastic">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\unityplastic.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\unityplastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="log4netPlastic">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\log4netPlastic.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collab-proxy@2.8.2\Lib\Editor\log4netPlastic.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.IonicZip">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.visualscripting@1.9.4\Editor\VisualScripting.Core\EditorAssetResources\Unity.VisualScripting.TextureAssets.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Collections.LowLevel.ILSupport">
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.collections@1.2.4\Unity.Collections.LowLevel.ILSupport\Unity.Collections.LowLevel.ILSupport.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.nuget.mono-cecil@1.11.4\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="mcs">
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Assets\Plugins\QFSW\Quantum Console\Source\Extras\exec\CSharpCompiler\Plugins\mcs.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\Program Installs\Unity\Unity Versions\6000.0.44f1\2022.3.62f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
@@ -825,6 +834,102 @@
       <Project>{1bde147e-ca5e-d869-e15e-996b046a2635}</Project>
       <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
+      <Project>{7ca24745-d7b5-3aa7-3a0b-f839efefc13d}</Project>
+      <Name>Unity.RenderPipelines.Core.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Burst.Editor.csproj">
+      <Project>{313aeda8-61c0-cc4a-7fda-1fbc3f55de9e}</Project>
+      <Name>Unity.Burst.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Serializers.csproj">
+      <Project>{03a23e1a-deec-04c7-038c-282f4e8472a9}</Project>
+      <Name>QFSW.QC.Serializers</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Networking.Transport.csproj">
+      <Project>{e2542f76-0390-5684-5422-e8725775b4c8}</Project>
+      <Name>Unity.Networking.Transport</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Rider.Editor.csproj">
+      <Project>{3f527e97-da00-b262-98ed-ba05314638ac}</Project>
+      <Name>Unity.Rider.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.csproj">
+      <Project>{8e91c72b-41d4-b6c5-aee4-be9580472330}</Project>
+      <Name>Unity.RenderPipelines.Universal.Config.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
+      <Project>{1c7e39b1-d082-b254-b1b1-3e390299e779}</Project>
+      <Name>Unity.RenderPipelines.Core.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
+      <Project>{d7a7e6bd-2355-1aec-0b44-7cde7d809107}</Project>
+      <Name>Unity.VisualScripting.Flow</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Netcode.Components.csproj">
+      <Project>{47a297ae-f6e5-60d7-bd22-b3b7de6cd55f}</Project>
+      <Name>Unity.Netcode.Components</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
+      <Project>{e493be5c-6db7-8ad2-6fa2-e322a31ab050}</Project>
+      <Name>Unity.Mathematics.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Netcode.Editor.csproj">
+      <Project>{53f89ba3-99fa-8294-5b64-3a0e10899509}</Project>
+      <Name>Unity.Netcode.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
+      <Project>{ceb6d561-726c-2958-2f98-614ce876d862}</Project>
+      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Grammar.csproj">
+      <Project>{9d951a65-5545-8c82-8f40-2cf0c6b2f2c3}</Project>
+      <Name>QFSW.QC.Grammar</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
+      <Project>{abf91ebb-4090-0d05-9747-5754fa296966}</Project>
+      <Name>Unity.PlasticSCM.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Collections.csproj">
+      <Project>{ae3fbe1b-9071-b57e-6fa2-19555d3fca51}</Project>
+      <Name>Unity.Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Netcode.Editor.PackageChecker.csproj">
+      <Project>{16f9ddf4-4c2a-930b-7115-883d0d6efe02}</Project>
+      <Name>Unity.Netcode.Editor.PackageChecker</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Netcode.Runtime.csproj">
+      <Project>{cf0fc39d-5d9b-1f2b-e85e-b2c7c42b9c0a}</Project>
+      <Name>Unity.Netcode.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.QGUI.csproj">
+      <Project>{f3bf2f97-2577-365d-5b5b-9314a450ccfa}</Project>
+      <Name>QFSW.QC.QGUI</Name>
+    </ProjectReference>
+    <ProjectReference Include="PPv2URPConverters.csproj">
+      <Project>{f38d4295-5a00-f313-a7b1-098909e3f979}</Project>
+      <Name>PPv2URPConverters</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{8ce5b3b3-7674-e835-b93c-940dfb1458a8}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.VSCode.Editor.csproj">
+      <Project>{ba371c47-006e-af32-b1c3-d3ab9dbc25db}</Project>
+      <Name>Unity.VSCode.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj">
+      <Project>{45845660-62ea-675c-3c15-c5f4bdd8fe0e}</Project>
+      <Name>Unity.Toolchain.Win-x86_64-Linux-x86_64</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
+      <Project>{72fac6e6-7757-b825-ffe9-b6b8ea0e144f}</Project>
+      <Name>Unity.RenderPipelines.Universal.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="QFSW.QC.Editor.csproj">
+      <Project>{518f46e3-63d9-769f-a408-d4697f3b0904}</Project>
+      <Name>QFSW.QC.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj">
       <Project>{9e789590-b71d-30f3-66fc-3c668afec124}</Project>
       <Name>Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary</Name>
@@ -833,17 +938,9 @@
       <Project>{8b90f2ad-7a3b-5537-7b0d-f954b9d0e0a4}</Project>
       <Name>Unity.Sysroot.Linux_x86_64</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Runtime.csproj">
-      <Project>{7ca24745-d7b5-3aa7-3a0b-f839efefc13d}</Project>
-      <Name>Unity.RenderPipelines.Core.Runtime</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.Runtime.csproj">
       <Project>{1a47c85d-1319-6091-3047-50da58a3ad47}</Project>
       <Name>Unity.RenderPipelines.Universal.Runtime</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Burst.Editor.csproj">
-      <Project>{313aeda8-61c0-cc4a-7fda-1fbc3f55de9e}</Project>
-      <Name>Unity.Burst.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Burst.csproj">
       <Project>{43b1bd86-27f8-07a6-2e23-89833d72655c}</Project>
@@ -881,33 +978,21 @@
       <Project>{b331f40f-a088-dd81-a009-d1e8c6ae037e}</Project>
       <Name>Unity.VisualScripting.Core.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Rider.Editor.csproj">
-      <Project>{3f527e97-da00-b262-98ed-ba05314638ac}</Project>
-      <Name>Unity.Rider.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Config.Runtime.csproj">
-      <Project>{8e91c72b-41d4-b6c5-aee4-be9580472330}</Project>
-      <Name>Unity.RenderPipelines.Universal.Config.Runtime</Name>
+    <ProjectReference Include="QFSW.QC.Parsers.csproj">
+      <Project>{9d881b26-3235-3218-4fa0-ca81e33fabc3}</Project>
+      <Name>QFSW.QC.Parsers</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipelines.Universal.2D.Internal.csproj">
       <Project>{21443027-0fee-090f-c7db-2c943cb3f01e}</Project>
       <Name>Unity.RenderPipelines.Universal.2D.Internal</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.Editor.csproj">
-      <Project>{1c7e39b1-d082-b254-b1b1-3e390299e779}</Project>
-      <Name>Unity.RenderPipelines.Core.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.Flow.csproj">
-      <Project>{d7a7e6bd-2355-1aec-0b44-7cde7d809107}</Project>
-      <Name>Unity.VisualScripting.Flow</Name>
+    <ProjectReference Include="QFSW.QC.Suggestors.csproj">
+      <Project>{d52ef8ec-9bda-58da-ca2a-1ead280634df}</Project>
+      <Name>QFSW.QC.Suggestors</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Editor.csproj">
       <Project>{d817a654-c5ab-aaac-7f5e-8415aa23e0d7}</Project>
       <Name>Unity.VisualScripting.Flow.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Mathematics.Editor.csproj">
-      <Project>{e493be5c-6db7-8ad2-6fa2-e322a31ab050}</Project>
-      <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.RenderPipeline.Universal.ShaderLibrary.csproj">
       <Project>{030e2e52-7424-b8c2-09b9-311122c630d6}</Project>
@@ -921,33 +1006,33 @@
       <Project>{bc103104-be31-f308-c497-2d97303efb88}</Project>
       <Name>Unity.VisualScripting.SettingsProvider.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Core.ShaderLibrary.csproj">
-      <Project>{ceb6d561-726c-2958-2f98-614ce876d862}</Project>
-      <Name>Unity.RenderPipelines.Core.ShaderLibrary</Name>
+    <ProjectReference Include="QFSW.QC.Extras.csproj">
+      <Project>{0d8cdc85-3f66-9809-6b22-420155f047d4}</Project>
+      <Name>QFSW.QC.Extras</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.SysrootPackage.Editor.csproj">
       <Project>{e7a873c6-1b67-799a-8716-bb40610511b4}</Project>
       <Name>Unity.SysrootPackage.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.PlasticSCM.Editor.csproj">
-      <Project>{abf91ebb-4090-0d05-9747-5754fa296966}</Project>
-      <Name>Unity.PlasticSCM.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.Editor.csproj">
       <Project>{8c282456-6676-8129-6731-4f5a2230c2f5}</Project>
       <Name>Unity.VisualScripting.State.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="PPv2URPConverters.csproj">
-      <Project>{f38d4295-5a00-f313-a7b1-098909e3f979}</Project>
-      <Name>PPv2URPConverters</Name>
+    <ProjectReference Include="QFSW.QC.UI.csproj">
+      <Project>{0ada5446-ca55-fad7-6b9f-d79b4ae5d643}</Project>
+      <Name>QFSW.QC.UI</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
       <Project>{701a6180-29d4-546b-5c93-17e01b112a98}</Project>
       <Name>Unity.Mathematics</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{8ce5b3b3-7674-e835-b93c-940dfb1458a8}</Project>
-      <Name>Unity.TextMeshPro</Name>
+    <ProjectReference Include="QFSW.QC.csproj">
+      <Project>{4a41818e-f248-6053-4de7-6f9d6a59a186}</Project>
+      <Name>QFSW.QC</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
+      <Project>{def6252a-ab81-eabc-72bd-36cfcc6063d8}</Project>
+      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{fcb42554-5691-d2b2-c192-6b2908411ab7}</Project>
@@ -957,25 +1042,25 @@
       <Project>{350d31a3-c90c-5ccc-2dc6-2c25f2dd7ac0}</Project>
       <Name>Unity.Searcher.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Shaders.csproj">
-      <Project>{def6252a-ab81-eabc-72bd-36cfcc6063d8}</Project>
-      <Name>Unity.RenderPipelines.Universal.Shaders</Name>
+    <ProjectReference Include="Unity.Networking.Editor.csproj">
+      <Project>{4384f699-5a35-18e5-0b61-bcae122392b7}</Project>
+      <Name>Unity.Networking.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
       <Project>{a33f18fc-b260-17a8-12a4-d952146af4bb}</Project>
       <Name>Unity.VisualScripting.State</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.VSCode.Editor.csproj">
-      <Project>{ba371c47-006e-af32-b1c3-d3ab9dbc25db}</Project>
-      <Name>Unity.VSCode.Editor</Name>
+    <ProjectReference Include="QFSW.QC.Demo.csproj">
+      <Project>{7cc439d3-796a-4c54-d843-3f4454ea289f}</Project>
+      <Name>QFSW.QC.Demo</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.Toolchain.Win-x86_64-Linux-x86_64.csproj">
-      <Project>{45845660-62ea-675c-3c15-c5f4bdd8fe0e}</Project>
-      <Name>Unity.Toolchain.Win-x86_64-Linux-x86_64</Name>
+    <ProjectReference Include="QFSW.QC.Editor.Tools.csproj">
+      <Project>{cb7cc46e-a82b-abc5-1aca-ebefdcb29690}</Project>
+      <Name>QFSW.QC.Editor.Tools</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.RenderPipelines.Universal.Editor.csproj">
-      <Project>{72fac6e6-7757-b825-ffe9-b6b8ea0e144f}</Project>
-      <Name>Unity.RenderPipelines.Universal.Editor</Name>
+    <ProjectReference Include="QFSW.QC.ScanRules.csproj">
+      <Project>{6fa89027-7258-d8c7-1869-e19db1cf8e51}</Project>
+      <Name>QFSW.QC.ScanRules</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

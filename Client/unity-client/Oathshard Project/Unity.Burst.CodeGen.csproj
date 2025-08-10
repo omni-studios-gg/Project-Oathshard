@@ -46,12 +46,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\CecilExtensions.cs" />
-    <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\FunctionPointerInvokeTransform.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\BurstILPostProcessor.cs" />
+    <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\AssemblyResolver.cs" />
+    <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\FunctionPointerInvokeTransform.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\ILPostProcessing.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\GenericContext.cs" />
     <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\ILPostProcessingLegacy.cs" />
-    <Compile Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\AssemblyResolver.cs" />
     <None Include="Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.CodeGen.asmdef" />
     <Reference Include="UnityEngine">
       <HintPath>D:\Program Installs\Unity\Unity Versions\6000.0.44f1\2022.3.62f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -318,19 +318,19 @@
       <HintPath>D:\Program Installs\Unity\Unity Versions\6000.0.44f1\2022.3.62f1\Editor\Data\PlaybackEngines\MetroSupport\UnityEditor.UWP.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Rocks">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.Rocks.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Pdb">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.Pdb.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Cecil.Mdb">
-      <HintPath>D:\Game-Development\omni-studios-gg\ProjectAshen\client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
+      <HintPath>D:\Game-Development\omni-studios-gg\Project-Oathshard\Client\unity-client\Oathshard Project\Library\PackageCache\com.unity.burst@1.8.21\Unity.Burst.CodeGen\Unity.Burst.Cecil.Mdb.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>D:\Program Installs\Unity\Unity Versions\6000.0.44f1\2022.3.62f1\Editor\Data\UnityReferenceAssemblies\unity-4.8-api\mscorlib.dll</HintPath>
